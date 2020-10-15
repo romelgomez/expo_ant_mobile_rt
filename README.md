@@ -2,6 +2,8 @@
 
 DEMO: [https://dexter-lab-02.web.app/](https://dexter-lab-02.web.app/)
 
+![Demo A](repo_images/demo_a.png "Demo A")
+
 ## Steps to review this repo
 
 - [ ] run `. ./scripts/web.server`
