@@ -2,6 +2,10 @@
 
 DEMO: [https://dexter-lab-02.web.app/](https://dexter-lab-02.web.app/)
 
+## Steps to review this repo
+
+- [ ] run `. ./scripts/web.server`
+
 ## Steps to install in fresh expo project
 
 - [ ] run `. ./scripts/bootstrap_v2.sh`  or `. ./scripts/bootstrap.sh`
