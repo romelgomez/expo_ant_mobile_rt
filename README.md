@@ -1,5 +1,7 @@
 # POC Expo with ant mobile RN
 
+DEMO: [https://dexter-lab-02.web.app/](https://dexter-lab-02.web.app/)
+
 ## Steps to install in fresh project
 
 - [ ] run `. ./scripts/bootstrap_v2.sh`  or `. ./scripts/bootstrap.sh`
